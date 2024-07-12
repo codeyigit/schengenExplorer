@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Schengen Explorer</string>
+    <string name="unlock_the_wonders_of_europe_your_adventure_in_the_schengen_zone_starts_here">Unlock the Wonders of Europe: Your Adventure in the Schengen Zone Starts Here !</string>
+    <string name="no_internet">No Internet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_made_by_codeyigit">App Made by Codeyigit</string>
+    <string name="items">Items</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="flag_description">Flag Description</string>
+    <string name="official_name">Official Name</string>
+    <string name="common_name">Common Name</string>
+</resources>
